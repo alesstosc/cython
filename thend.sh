@@ -1,6 +1,6 @@
 #!/bin/bash
 
 git add .
-gitconfig.sh
+./gitconfig.sh
 git commit -m "süd"
 git push 
